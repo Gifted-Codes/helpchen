@@ -1,0 +1,22 @@
+Here are 20 essential Git commands and their functions:
+
+git init - Initializes a new Git repository.
+git clone <repository_url> - Clones a repository from a URL.
+git add <file> - Adds a file to the staging area.
+git commit -m "message" - Commits changes with a descriptive message.
+git status - Shows the status of changes as untracked, modified, or staged.
+git log - Displays a log of commits.
+git branch - Lists all branches in the repository.
+git checkout <branch> - Switches to a specified branch.
+git merge <branch> - Merges changes from one branch into the current branch.
+git pull - Fetches changes from a remote repository and merges them into the current branch.
+git push - Pushes committed changes to a remote repository.
+git remote -v - Shows a list of remote repositories.
+git fetch - Fetches changes from a remote repository.
+git diff - Shows the differences between the working directory and the staging area.
+git reset <file> - Unstages changes for a file.
+git revert <commit> - Reverts a commit.
+git branch -d <branch> - Deletes a branch.
+git tag <tag_name> - Creates a tag for a specific commit.
+git config --global user.name "Your Name" - Sets the global username.
+git stash - Temporarily saves changes that are not ready to be committed.

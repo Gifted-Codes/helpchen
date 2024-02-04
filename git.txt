@@ -1,0 +1,13 @@
+To install Git on your local machine, follow these steps:
+
+Windows:
+
+Download the Git installer from the official website: Git for Windows.
+Run the installer and follow the on-screen instructions.
+Mac:
+
+Git is pre-installed on most Mac machines. If not, you can install it using Homebrew by running brew install git in the terminal.
+Linux:
+
+Use the package manager for your distribution to install Git. For example, on Ubuntu, run sudo apt-get install git.
+Verify the installation by running git --version in the terminal.
